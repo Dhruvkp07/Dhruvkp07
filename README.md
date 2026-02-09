@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About :
 📊 Working toward roles in Data Science and Data Analytics<br>🧠 Strong foundation in statistics, probability, and data reasoning<br>🐍 Proficient in Python for analysis and modeling<br>🏅 Kaggle Expert | Top ~700 / 54k+ contributors<br>📓 30+ published Kaggle notebooks across varied datasets
 
 
