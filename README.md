@@ -1,7 +1,3 @@
-# About :
-📊 Working toward roles in Data Science and Data Analytics<br>🧠 Strong foundation in statistics, probability, and data reasoning<br>🐍 Proficient in Python for analysis and modeling<br>🏅 Kaggle Expert | Top ~700 / 54k+ contributors<br>📓 30+ published Kaggle notebooks across varied datasets
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dhruv-kumar-463b27290/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kdk751666@gmail.com) 
 
